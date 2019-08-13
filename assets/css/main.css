@@ -3928,4 +3928,17 @@ input, select, textarea {
 					}
 				}
 
+				.fa-linkedin:hover{
+					color:black;
+				}
+				.fa-github:hover{
+					color:black;
+				}
+				.fa-twitter:hover{
+					color:black;
+				}
+				.fa-file-pdf:hover{
+					color:black;
+				}
+
 		}
